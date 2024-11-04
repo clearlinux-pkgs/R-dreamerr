@@ -7,7 +7,7 @@
 #
 Name     : R-dreamerr
 Version  : 1.4.0
-Release  : 12
+Release  : 13
 URL      : https://cran.r-project.org/src/contrib/dreamerr_1.4.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/dreamerr_1.4.0.tar.gz
 Summary  : Error Handling Made Easy
